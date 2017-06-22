@@ -9,6 +9,7 @@
 *.synctex.gz
 *.tmp
 tmp.*
+*.swp
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -25,7 +26,6 @@ tmp.*
 .dvi
 *.ps
 *.eps
-*.pdf
 *.bbl
 *.bcf
 *.blg
@@ -37,4 +37,3 @@ tmp.*
 *.ind
 *.ist
 
-# specials
