@@ -7,6 +7,10 @@ Basic English ist ein stark vereinfachtes Englisch basierend auf 850 Wörtern vo
 basic_english.tex  
 Latex-Datei zum Generieren der PDF- und HTML-Dateien
 
+Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:
+
+  ./booklet.sh
+
 basic_english.pdf  
 Generiertes Booklet (A4)
 
