@@ -3,18 +3,6 @@
 #
 clear
 #
-echo "Erstelle ding-Woerterbuch"
-echo "------------------------------------------------------------------"
-fgrep " % Basic English" basic_english.tex | fgrep " && " | awk -F\& '{print $1 "::" $3}' | awk -F\\ '{print $1 $3}' > tmp.txt
-fgrep " % Basic English operator verb" basic_english.tex | awk -F\& '{print $1 "::" $5 " - present"}' >> tmp.txt
-fgrep " % Basic English operator verb" basic_english.tex | awk -F\& '{print $2 "::" $5 " - past"}' >> tmp.txt
-fgrep " % Basic English operator verb" basic_english.tex | awk -F\& '{print $3 "::" $5 " - past participle"}' >> tmp.txt
-cat toddlist.txt >> tmp.txt
-cat tmp.txt | sort > basic_english.txt 
-rm -f tmp.txt
-ls -l basic_english.txt
-echo " "
-#
 ###############################################################################
 #
 echo "Erstelle dvi-Datei"
