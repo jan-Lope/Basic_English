@@ -46,7 +46,7 @@ ls -lrt basic_english
 echo " "
 
 
-acroread basic_english-booklet.pdf &
+## acroread basic_english-booklet.pdf &
 ## ghostview -landscape basic_english-booklet.ps &
 ## kghostview basic_english-booklet.ps &
 
