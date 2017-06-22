@@ -1,17 +1,16 @@
-# Basic_English
+# Basic English
 Basic English is an English-based controlled language created by Charles Kay Ogden. Basic English is a simplified subset of regular English. 
 
-basic_english.tex  
-  
-Latex file to generate the German lesson in pdf and html files.  
+## Lektionen in Deutsch
+Basic English ist ein stark vereinfachtes Englisch basierend auf 850 Wörtern von C. K. Ogden 1937.
 
-basic_english.pdf  
-basic_english-booklet.pdf    
+  basic_english.tex           - Latex-Datei zum Generieren der PDF- und HTML-Dateien
 
-The generated pdf files  
+  basic_english.pdf           - Generiertes Booklet (A4)
 
+  basic_english-booklet.pdf   - Generieretes Booklet (A5)
 
-The html version can be found here:
+Die HTML-Verion ist unter folgender URL einsehbar:
 
 http://rowa.giso.de/languages/english/basic-english/
 
