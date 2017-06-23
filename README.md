@@ -10,13 +10,13 @@ Latex-Datei zum Generieren der PDF- und HTML-Dateien
 Die Generierung der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren sind folgende Pakete zu installieren:
 
 
-    apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base 
+    apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils 
 
 
 Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:
 
 
-   ./make_booklet.sh
+    ./make_booklet.sh
 
 
 basic_english.pdf  
