@@ -39,3 +39,6 @@ tmp.*
 *.ind
 *.ist
 
+# Build
+_build/
+

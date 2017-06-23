@@ -12,6 +12,8 @@ deploy:
     secure: [YOUR KEY]
   file:
   - _build/basic_english.pdf
+  - _build/basic_english-booklet.pdf
+  - _build/basic_english
 
   skip_cleanup: true
   on:

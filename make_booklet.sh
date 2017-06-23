@@ -12,6 +12,9 @@ echo " "
 echo "########################################################################"
 echo "start $0"
 echo " "
+rm -rf *.dvi
+rm -rf *.ps
+rm -rf *.pdf
 echo "make dvi file"
 latex $TEX_FILE.tex > /dev/null 
 if [ ! -f $TEX_FILE.dvi ]; then
