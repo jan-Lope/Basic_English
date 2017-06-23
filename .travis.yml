@@ -5,6 +5,7 @@ before_install:
 script:
 - mkdir _build
 - pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build basic_english.tex
+- "./make_booklet.sh"
 deploy:
   provider: releases
   api_key:
