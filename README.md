@@ -7,12 +7,20 @@ Basic English ist ein stark vereinfachtes Englisch basierend auf 850 Wörtern vo
 basic_english.tex  
 Latex-Datei zum Generieren der PDF- und HTML-Dateien
 
+Die Generierung der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren sind folgende Pakete zu installieren:
+
+
+    apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base 
+
+
 Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:
 
-  ./booklet.sh
+
+   ./make_booklet.sh
+
 
 basic_english.pdf  
-Generiertes Booklet (A4)
+Generiertes Buch (A4) 
 
 basic_english-booklet.pdf  
 Generieretes Booklet (A5). Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
