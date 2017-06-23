@@ -23,10 +23,12 @@ tmp.*
 *.fot
 *.cb
 *.cb2
-.dvi
+*.dvi
 *.ps
 *.eps
+*.pdf
 *.bbl
+*.blg
 *.bcf
 *.blg
 *-blx.aux
