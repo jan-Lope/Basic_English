@@ -11,7 +11,7 @@ Basic English ist ein stark vereinfachtes Englisch basierend auf 850 Wörtern vo
 [basic_english.pdf](https://github.com/jan-Lope/Basic_English/blob/gh-pages/basic_english.pdf)  
 Generiertes Buch (A4) 
 
-[https://jan-lope.github.io/Basic_English/basic_english-booklet.pdf](https://github.com/jan-Lope/Basic_English/blob/gh-pages/basic_english-booklet.pdf)  
+[basic_english-booklet.pdf](https://github.com/jan-Lope/Basic_English/blob/gh-pages/basic_english-booklet.pdf)  
 Generieretes Booklet (A5). Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
 [HTML-Version](https://github.com/jan-Lope/Basic_English/tree/gh-pages/basic_english/index.html)  
