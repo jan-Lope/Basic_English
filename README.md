@@ -18,14 +18,18 @@ Generieretes Booklet (A5). Bei der Booklet-Version werden jeweils zwei Seiten au
 
 
 
-### Source Code: Latex Dateien
+### Source Code
 
-Die PDF- und HTML-Dateien werden aus einer Latex-Datei generiert.
+Die PDF- und HTML-Dateien werden automatisch aus der Latex-Datei per [travis-ci.org](https://travis-ci.org/jan-Lope/Basic_English) generiert.
+
+Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-Lope/Basic_English) veröffentlicht.  
 
 basic_english.tex  
 Latex-Datei zum Generieren der PDF- und HTML-Dateien
 
-Die Generierung der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren sind folgende Pakete zu installieren:
+### Manuelles Generieren
+
+Das manuelle Generieren der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren sind folgende Pakete zu installieren:
 
 
     apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils 
@@ -37,3 +41,5 @@ Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linu
     ./make_booklet.sh
 
 
+
+[jan Lope](https://jan-lope.github.io)
