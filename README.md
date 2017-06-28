@@ -18,7 +18,7 @@ Generieretes Booklet (A5). Bei der Booklet-Version werden jeweils zwei Seiten au
 
 
 
-### Source Code
+### Source Codes
 
 Die PDF- und HTML-Dateien werden automatisch aus der Latex-Datei per [travis-ci.org](https://travis-ci.org/jan-Lope/Basic_English) generiert.
 
@@ -29,7 +29,7 @@ Latex-Datei zum Generieren der PDF- und HTML-Dateien
 
 ### Manuelles Generieren
 
-Das manuelle Generieren der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren sind folgende Pakete zu installieren:
+Das manuelle Generieren der PDF- und HTML-Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
 
 
     apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils 
