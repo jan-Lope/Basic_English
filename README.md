@@ -31,13 +31,14 @@ Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-
 Das manuelle Generieren der PDF- und HTML-Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
 
 
-    apt-get install dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils 
+    sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
+    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript
 
 
 Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:
 
 
-    ./make_booklet.sh
+    ./make.sh
 
 
 
