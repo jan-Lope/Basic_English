@@ -2,9 +2,14 @@
 Basic English is an English-based controlled language created by Charles Kay Ogden. Basic English is a simplified subset of regular English. 
 
 
-## Lektionen in deutscher Sprache
+## Lektionen in deutscher Sprache übersetzt von Robert Warnke
 Basic English ist ein stark vereinfachtes Englisch basierend auf 850 Wörtern von C. K. Ogden 1937.
 
+Englisch verfügt über ein sehr reichhaltiges Vokabular. Gute Wörterbücher enthalten über 250.000 Wörter. Dies ist für jemand der Englisch als Fremdsprache lernt nicht gerade ermutigend. Ist es aber notwendig so viele Wörter zu lernen? Wer gut Englisch sprechen will, sollte schon über einen großen Wortschatz verfgen. Aber um sich verständlich zu machen, reicht aber schon eine wesentlich geringere Anzahl von Wörtern.
+
+Zum Beispiel verwendet der Radionsender "Voice of America" ein vereinfachtes Englisch basierend auf 1500 Wörtern. Konrad Adenauer, erster Kanzler der BRD, benutzte in seiner politischen Praxis nachgewiesenermaßen ein Vokabular von nicht mehr als 800 Wörtern. Diese Vereinfachungen sind möglich, da es oft viele Wörter für einen Begriff gibt.
+
+Charles Kay Ogden wählte die 850 für allgemeine Kommunikation wichtigsten englischen Wörter aus. Dies sind übrigens nicht unbedingt die am häufigsten verwendeten Wörter. Ogden versuchte auch mögliche Änderungen der Wortart einzuschränken. Im Englischen gibt es ja viele Wörter, die, bei gleicher Schreibweise, sowohl Substantiv, Verb oder anderes sein können. Ogden nannte diese Plansprache BASIC English.
 
 ### Generierte PDF- und HTML-Dateien
 
